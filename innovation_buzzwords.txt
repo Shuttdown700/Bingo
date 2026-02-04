@@ -1,0 +1,44 @@
+"Nothing Heard"
+3D Printing / Printer
+AI / AI-Enabled
+Analysis
+Bottom-Up
+Capability
+Cloud / Cloud Computing
+Commerical Off-the-Shelf (COTS)
+Cyber
+Data
+Decision
+Defense Innovation Unit (DIU)
+DEVCOM
+DIRT Lab
+Dragon's Lair
+Electronic Warfare (EW)
+Feedback
+First-Person View (FPV)
+Foxhole
+Innovation
+Integration
+Joint Innovation Outpost (JIOP)
+Lethality
+Line of Effort (LOE)
+Modernization
+NDAA
+Oversight
+Process
+Program Executive Office (PEO)
+Project
+Prototype / Prototyping
+Purpouse-Built Attritable System (PBAS)
+Recommendation
+Requirement
+Risk
+Scalability / Scale
+Software / Firmware
+Soldier-Bourne
+Survivability
+Target Recognition
+Transformation
+Transition
+Unmanned Air System (UAS)
+Working Group
