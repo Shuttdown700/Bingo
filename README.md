@@ -14,14 +14,17 @@ This program is a Bingo card generator that uses custom wordlists and outputs pr
 
 3. Edit the **GLOBAL VARIABLES** in the ./src/bingo_card_generator.py based on your preferences.
 
-4. Open a **Command (cmd) or Powershell Prompt** in the root directory of the Bingo repository. 
+4. Open a **Powershell Prompt** in the root directory of the Bingo repository. 
 
 5. Reference the following example commands to generate Bingo cards:
 ```sh
 # verify python is installed
 python --version
+
 # view the arguement requirements for the Bingo Card Generator
 python .\src\bingo_card_generator.py
+# Expected Output --> Usage: python3 .\src\bingo_card_generator.py [bingo_terms.txt] [output.html] [count]
+
 # create bingo cards by defining a wordslist, an output .html file, and quantity of cards
 python .\src\bingo_card_generator.py .\wordlists\innovation_buzzwords.txt .\output\innovation_bingo_card.html 6
 ```
