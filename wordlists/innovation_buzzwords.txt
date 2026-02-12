@@ -1,11 +1,12 @@
 "Nothing Heard"
-3D Printing / Printer
+3D Print / CAD
 AI / AI-Enabled
 Analysis
 Bottom-Up
 Capability
 Cloud / Cloud Computing
 Commerical Off-the-Shelf (COTS)
+Counter UAS (C-UAS)
 Cyber
 Data
 Decision
@@ -14,18 +15,22 @@ DEVCOM
 DIRT Lab
 Dragon's Lair
 Electronic Warfare (EW)
+Experiment / Experimentation
 Feedback
 First-Person View (FPV)
-Foxhole
+Industry / Vendor
 Innovation
 Integration
 Joint Innovation Outpost (JIOP)
 Lethality
 Line of Effort (LOE)
 Modernization
-NDAA
+NDAA / Blue List
+Network
+One-Way Attack
 Oversight
 Process
+Product Manager (PM/PdM)
 Program Executive Office (PEO)
 Project
 Prototype / Prototyping
@@ -36,8 +41,10 @@ Risk
 Scalability / Scale
 Software / Firmware
 Soldier-Bourne
+Streamline
 Survivability
 Target Recognition
+Technology
 Transformation
 Transition
 Unmanned Air System (UAS)
